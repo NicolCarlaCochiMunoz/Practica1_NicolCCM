@@ -1,0 +1,6 @@
+com\emergentes\RespCSV.class
+com\emergentes\RespPDF.class
+com\emergentes\RespXML.class
+com\emergentes\RespHTML.class
+com\emergentes\RespJSON.class
+com\emergentes\RespXLS.class
